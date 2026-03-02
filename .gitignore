@@ -1,0 +1,9 @@
+# 临时文件
+~$*
+*.tmp
+
+# Claude
+.claude/
+
+# Office 临时文件
+~$
